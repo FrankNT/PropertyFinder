@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test PropertyFinder</string>
+    <string name="change_order_type">Change Order Type</string>
+</resources>
